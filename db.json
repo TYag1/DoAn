@@ -1,0 +1,635 @@
+{
+  "bookHot": [
+    {
+      "id": 1,
+      "title": "Một Thai Hai Bảo: Giám Đốc Hàng Tỉ Yêu Vợ Tận Xương",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/mot-thai-hai-bao-giam-doc-hang-ti-yeu-vo-tan-xuong.1576219741.jpg",
+      "content": "Anh là tổng tài Đế quốc thương nghiệp cao cao tại thượng, cô là một người con gái nuôi trong gia đình đang lâm nguy. Để giải cứu sự nghiệp của cha nuôi mình, cô liền ký vào tờ hợp đồng trăm vạn nội dung: Sinh con thuê cho anh",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "7.5/10",
+      "view": 16414151,
+      "catalogs": " Ngôn Tình, Truyện Sủng",
+      "shortDes": "Anh từng bước ép sát: Người phụ nữ này, cô tưởng rằng mình có thể thoát khỏi tay tôi sao! , lại không nghĩ rằng, anh bị một đứa trẻ cản lại, cậu nhóc trưng ra dáng vẻ của một ông cụ non, chỉ ngón tay nhỏ về phía anh: Mộ Nhã Triết, tốt nhât là ông cách xa cô ấy một chút, cô ấy là người phụ nữ của tôi."
+    },
+    {
+      "id": 2,
+      "title": "Tân Hôn Không Tình Yêu, Thế Tội Vợ Trước",
+      "content": "",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/tan-hon-khong-tinh-yeu-the-toi-vo-truoc.1576216946.jpg",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "7.8/10"
+    },
+    {
+      "id": 3,
+      "title": "Độc Tôn Tam Giới",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/doc-ton-tam-gioi.1576221738.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "7.5/10"
+    },
+    {
+      "id": 4,
+      "title": "Linh Vũ Thiên Hạ",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/linh-vu-thien-ha.1576601653.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "7.0/10"
+    },
+    {
+      "id": 5,
+      "title": "Cố Chấp Ngọt",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/co-chap-ngot.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "9/10"
+    },
+    {
+      "id": 6,
+      "title": "Cô Vợ Ngọt Ngào Có Chút Bất Lương",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/images/story/Co-Vo-Ngot-Ngao-Co-Chut-Bat-Luong.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "8.5/10"
+    },
+    {
+      "id": 7,
+      "title": "Cô Vợ Ngọt Ngào Có Chút Bất Lương (Vợ Mới Bất Lương Có Chút Ngọt)",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/co-vo-ngot-ngao-co-chut-bat-luong-vo-moi-bat-luong-co-chut-ngot.1576254700.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "7.5/10"
+    },
+    {
+      "id": 8,
+      "title": "Thần Đạo Đan Tôn",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/than-ao-an-ton.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "7.5/10"
+    },
+    {
+      "id": 9,
+      "title": "Cô Vợ Thay Thế",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/co-vo-thay-the.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "7.9/10"
+    },
+    {
+      "id": 10,
+      "title": "Xuyên Nhanh: Nam Thần, Bùng Cháy Đi!",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/xuyen-nhanh-nam-than-bung-chay-i.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "8.0/10"
+    },
+    {
+      "id": 11,
+      "title": "Thiên Đạo Đồ Thư Quán",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/thien-ao-o-thu-quan.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "8.0/10"
+    },
+    {
+      "id": 12,
+      "title": "Hello, Người Thừa Kế (Xin Chào, Người Thừa Kế)",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/hello-nguoi-thua-ke-xin-chao-nguoi-thua-ke.jpg",
+      "content": "",
+      "chapter": "",
+      "author": "",
+      "status": 0,
+      "rate": "8.4/10"
+    }
+  ],
+  "bookNew": [
+    {
+      "id": 1,
+      "title": "Gả Thay Ngọt Ngào FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-63",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 2,
+      "title": "Vợ Nhỏ Cuối Cùng Em Đã Lớn!",
+      "cat": "Ngôn Tình, Truyện Sủng",
+      "chap": "C-17110",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 3,
+      "title": "Gả Thay Ngọt Ngào FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-63",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 4,
+      "title": "Mi Có Khướt Mới Tán Được Nữ Chính FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-21",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 5,
+      "title": "Ái Tình Bán Sỉ",
+      "cat": "Đam Mỹ, Đô Thị",
+      "chap": "C-5",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 6,
+      "title": "Gả Thay Ngọt Ngào FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-63",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 7,
+      "title": "Yêu Em Một Lời Khó Nói Hết",
+      "cat": "Ngôn Tình",
+      "chap": "C-58",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 8,
+      "title": "Bị Kẻ Thù Yêu Thích Ta Phải Làm Sao Bây Giờ FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-38",
+      "time": "8 Giờ trước"
+    },
+    {
+      "id": 9,
+      "title": "Điều Tuyệt Vời Nhất Dành Cho Em",
+      "cat": "Bách Hợp",
+      "chap": "C-18",
+      "time": "8 Giờ trước"
+    },
+    {
+      "id": 10,
+      "title": "Thế Thân O Là Vạn Nhân Mê",
+      "cat": "Đam Mỹ",
+      "chap": "C-63",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 11,
+      "title": "Gả Thay Ngọt Ngào FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-63",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 12,
+      "title": "Vợ Nhỏ Cuối Cùng Em Đã Lớn!",
+      "cat": "Ngôn Tình, Truyện Sủng",
+      "chap": "C-17110",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 13,
+      "title": "Gả Thay Ngọt Ngào FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-63",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 14,
+      "title": "Mi Có Khướt Mới Tán Được Nữ Chính FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-21",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 15,
+      "title": "Ái Tình Bán Sỉ",
+      "cat": "Đam Mỹ, Đô Thị",
+      "chap": "C-5",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 16,
+      "title": "Gả Thay Ngọt Ngào FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-63",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 17,
+      "title": "Yêu Em Một Lời Khó Nói Hết",
+      "cat": "Ngôn Tình",
+      "chap": "C-58",
+      "time": "7 Giờ trước"
+    },
+    {
+      "id": 18,
+      "title": "Bị Kẻ Thù Yêu Thích Ta Phải Làm Sao Bây Giờ FULL",
+      "cat": "Ngôn Tình, Cổ Đại",
+      "chap": "C-38",
+      "time": "8 Giờ trước"
+    },
+    {
+      "id": 19,
+      "title": "Điều Tuyệt Vời Nhất Dành Cho Em",
+      "cat": "Bách Hợp",
+      "chap": "C-18",
+      "time": "8 Giờ trước"
+    },
+    {
+      "id": 20,
+      "title": "Thế Thân O Là Vạn Nhân Mê",
+      "cat": "Đam Mỹ",
+      "chap": "C-63",
+      "time": "7 Giờ trước"
+    }
+  ],
+  "bookFinish": [
+    {
+      "id": 1,
+      "title": "Mi Có Khướt Mới Tán Được Nữ Chính FULL",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/mi_co_khuot_moi_tan_duoc_nu_chinh.1667217457.jpg",
+      "chapter": 21,
+      "rate": "7.3/10"
+    },
+    {
+      "id": 2,
+      "title": "Xin Lỗi Theo Đuôi Nhầm Người Rồi FULL hihi hihi",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/xin_loi_theo_duoi_nham_nguoi_roi.1666585442.jpg",
+      "chapter": 71,
+      "rate": "7.5/10"
+    },
+    {
+      "id": 3,
+      "title": "Bị Kẻ Thù Yêu Thích Ta Phải Làm Sao Bây Giờ FULL",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/sst_detault2.jpg",
+      "chapter": 58,
+      "rate": "7.7/10"
+    },
+    {
+      "id": 4,
+      "title": "Trong Lồng Tước Trọng Sinh Trọng Sinh Thành Tiên Tôn Trong Tay Pi",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/mi_co_khuot_moi_tan_duoc_nu_chinh.1667217457.jpg",
+      "chapter": 350,
+      "rate": "8.3/10"
+    },
+    {
+      "id": 5,
+      "title": "Xuyên Thành Cực Phẩm Trượng Phu Sau Xuyên Thư",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/xuyen_thanh_cuc_pham_truong_phu_sau_xuyen_thu.1667227579.jpg",
+      "chapter": 21,
+      "rate": "7.3/10"
+    },
+    {
+      "id": 6,
+      "title": "Thiên Lôi Có Thể Có Cái Gì Ý Xấu Đâu",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/thien_loi_co_the_co_cai_gi_y_xau_dau.1667227572.jpg",
+      "chapter": 2,
+      "rate": "7.3/10"
+    },
+    {
+      "id": 7,
+      "title": "Lĩnh Chủ Trò Chơi Xây Dựng Cơ Bản Làm Ruộng",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/linh_chu_tro_choi_xay_dung_co_ban_lam_ruong.1667183273.jpg",
+      "chapter": 236,
+      "rate": "7.7/10"
+    },
+    {
+      "id": 8,
+      "title": "Tôi Diễn Bừa Mà Các Anh Cũng Coi Là Thật FULL",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/toi_dien_bua_ma_cac_anh_cung_coi_la_that.1667217411.jpg",
+      "chapter": 79,
+      "rate": "8.3/10"
+    },
+    {
+      "id": 9,
+      "title": "Tsunayoshi Trở Thành Saniwa Tổng",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//tsunayoshi_tro_thanh_saniwa_tong.1667153556.jpg",
+      "chapter": 273,
+      "rate": "7.8/10"
+    },
+    {
+      "id": 10,
+      "title": "Ở Niên Đại Văn Kết Hôn Xuyên Nhanh",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//o_nien_dai_van_ket_hon_xuyen_nhanh.1667132263.jpg",
+      "chapter": 251,
+      "rate": "7.6/10"
+    },
+    {
+      "id": 11,
+      "title": "Sai Lầm Trói Định Hồng Nương Hệ Thống Sau Xuyên Nhanh",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//sai_lam_troi_dinh_hong_nuong_he_thong_sau_xuyen_nhanh.1666856085.jpg",
+      "chapter": 213,
+      "rate": "9.0/10"
+    },
+    {
+      "id": 12,
+      "title": "Xuyên Thư Nghe Nói Ta Là Tra A",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//xuyen_thu_nghe_noi_ta_la_tra_a.1667283098.jpg",
+      "chapter": 118,
+      "rate": "8.2/10"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "nameCat": "Tiêm Hiệp"
+    },
+    {
+      "id": "2",
+      "nameCat": "Kiếm Hiệp"
+    },
+    {
+      "id": "3",
+      "nameCat": "Ngôn Tình"
+    },
+    {
+      "id": "4",
+      "nameCat": "Đô Thị"
+    },
+    {
+      "id": "5",
+      "nameCat": "Quang Trường"
+    },
+    {
+      "id": "6",
+      "nameCat": "Võng Du"
+    },
+    {
+      "id": "7",
+      "nameCat": "Huyền Huyễn"
+    },
+    {
+      "id": "8",
+      "nameCat": "Dị Giới"
+    },
+    {
+      "id": "9",
+      "nameCat": "Dị Năng"
+    },
+    {
+      "id": "10",
+      "nameCat": "Quân Sự"
+    },
+    {
+      "id": "11",
+      "nameCat": "Xuyên Không"
+    },
+    {
+      "id": "12",
+      "nameCat": "Trọng Sinh"
+    },
+    {
+      "id": "13",
+      "nameCat": "Trinh Thám"
+    },
+    {
+      "id": "14",
+      "nameCat": "Linh Dị"
+    },
+    {
+      "id": "15",
+      "nameCat": "Truyện Sắc"
+    },
+    {
+      "id": "16",
+      "nameCat": "Truyện Ngược"
+    },
+    {
+      "id": "17",
+      "nameCat": "Truyện Súng"
+    },
+    {
+      "id": "18",
+      "nameCat": "Truyện Cung Đấu"
+    },
+    {
+      "id": "19",
+      "nameCat": "Truyện Nữ Cường"
+    },
+    {
+      "id": "20",
+      "nameCat": "Truyện Gia Đấu"
+    },
+    {
+      "id": "21",
+      "nameCat": "Đông Phương"
+    },
+    {
+      "id": "22",
+      "nameCat": "Đam Mỹu"
+    },
+    {
+      "id": "23",
+      "nameCat": "Bách Hợp"
+    },
+    {
+      "id": "24",
+      "nameCat": "Hài Hước"
+    },
+    {
+      "id": "25",
+      "nameCat": "Cổ Đại"
+    },
+    {
+      "id": "26",
+      "nameCat": "Mạt Thế"
+    },
+    {
+      "id": "27",
+      "nameCat": "Truyện Teen"
+    },
+    {
+      "id": "28",
+      "nameCat": "Phương Tây"
+    },
+    {
+      "id": "29",
+      "nameCat": "Nữ Phụ"
+    },
+    {
+      "id": "30",
+      "nameCat": "Đoản Văn"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Một Thai Hai Bảo: Giám Đốc Hàng Tỉ Yêu Vợ Tận Xương",
+      "imgUrl": "https://sstruyen.vn/assets/img/story/mot-thai-hai-bao-giam-doc-hang-ti-yeu-vo-tan-xuong.1576219741.jpg",
+      "content": "Anh là tổng tài Đế quốc thương nghiệp cao cao tại thượng, cô là một người con gái nuôi trong gia đình đang lâm nguy. Để giải cứu sự nghiệp của cha nuôi mình, cô liền ký vào tờ hợp đồng trăm vạn nội dung: Sinh con thuê cho anh",
+      "chapter": "",
+      "author": "Hoa Dung Nguyệt Hạ",
+      "status": "Đang ra",
+      "rate": "7.5/10",
+      "view": 16414151,
+      "catalogs": " Ngôn Tình, Truyện Sủng",
+      "shortDes": "Anh từng bước ép sát: Người phụ nữ này, cô tưởng rằng mình có thể thoát khỏi tay tôi sao! , lại không nghĩ rằng, anh bị một đứa trẻ cản lại, cậu nhóc trưng ra dáng vẻ của một ông cụ non, chỉ ngón tay nhỏ về phía anh: Mộ Nhã Triết, tốt nhât là ông cách xa cô ấy một chút, cô ấy là người phụ nữ của tôi."
+    },
+    {
+      "id": 2,
+      "title": "Tân Hôn Không Tình Yêu, Thế Tội Vợ Trước",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//tan-hon-khong-tinh-yeu-the-toi-vo-truoc.1576216946.jpg",
+      "content": "Tất cả mọi người, ai cũng cho rằng cô chính là người hại chết em gái mình để cướp chồng bởi em gái cô vừa chỉ qua đời ba tháng Cô đã khăng khăng đòi cưới em rể - Sở Luật của Sở Thị Ngay cả chính người mẹ ruột cũng từ và cho rằng nàng không có đứa con độc ác như cô...",
+      "chapter": "",
+      "author": " Hạ Nhiễm Tuyết",
+      "status": "Theo dõi",
+      "rate": "7.5/10",
+      "view": 14319279,
+      "catalogs": " Ngôn Tình",
+      "shortDes": "Anh xoay cười, cười tàn nhẫn, Được, anh ly hôn, cưới uhm Anh tái hôn, động phòng hoa chúc, còn cô ở một kho hàng lạnh băng, sinh một đứa con gái. Một năm kia, dưới một gốc cây đại thụ, bé trai nói, trưởng thành, anh sẽ trở về tìm em, cưới em làm cô vợ nhỏ. Anh nhớ kỹ hứa hẹn, tìm lầm rồi, cưới đúng rồi, hận sai rồi."
+    },
+    {
+      "id": 3,
+      "title": "Độc Tôn Tam Giới",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//doc-ton-tam-gioi.1576221738.jpg",
+      "content": "Thiên Đế Chi Tử Giang Trần chuyển sinh lên thân thể một thiếu niên bị chư hầu khi dễ bắt đầu trên con đường đuổi giết máu tanh dần dần đi lên. Trước mặt Giang Trần ai dám xưng là thiên tài? Không ai có thể hiểu Thiên bằng Thiên Đế Chi tài?? Kẻ thuận ta là thiên, kẻ nghịch ta phải giết!",
+      "chapter": "",
+      "author": " Lê Thiên",
+      "status": "Theo dõi",
+      "rate": "7.5/10",
+      "view": 143192766,
+      "catalogs": " Tiên Hiệp, Huyền Huyễn",
+      "shortDes": "Mạch truyện luôn bình thản nhưng không kém phần gay cấn, tình tiết logic xuyên suốt từ đầu đến cuối, các tình tiết đan xen lẫn nhau luôn được đẩy lên cao trào khiến độc giả bị cuốn vào mạch truyện. Đương nhiên vẫn như các bộ truyện khác kết thúc của Lê Thiên rất có hậu........."
+    },
+    {
+      "id": 4,
+      "title": "Linh Vũ Thiên Hạ",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//linh-vu-thien-ha.1576601653.jpg",
+      "content": "Linh hồn của Lục Thiếu Du bị xuyên qua đến thế giới khác, và nhập vào thân thể của một người chẵng có địa vị xã hội, không khác gì nô lệ. Trong thế giới này lấy Vũ vi cường, và lấy Linh vi tôn, ta nghe nói khi võ đạo đỉnh linh đạo đạt đến vô cực có thể phá toái hư không.",
+      "chapter": "",
+      "author": " Vũ Phong",
+      "status": "Theo dõi",
+      "rate": "7.5/10",
+      "view": 12999743,
+      "catalogs": "Xuyên Không, Dị Giới, Tiên Hiệp, Huyền Huyễn",
+      "shortDes": "Lục Thiếu Du mang theo ký ức từ kiếp trước tái sinh, không cam lòng làm một thiếu gia chẳng khác gì tên phế liệu..."
+    },
+    {
+      "id": 5,
+      "title": "Cố Chấp Ngọt",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//co-chap-ngot.jpg",
+      "content": "Mọi người trong thành phố phía Bắc đều biết được người con trai thứ ba nhà họ Hoắc nổi tiếng là một người đàn ông ưu tú, nhã nổi bật hơn người, rồng giữa vạn người. Tuy nhiên chỉ có một mình Nam Từ biết, ẩn dưới vẻ bề ngoài nhã nhặn kia là một con người đáng sợ như thế nào.",
+      "chapter": "",
+      "author": "  Triệu Thập Dư",
+      "status": "Theo dõi",
+      "rate": "9.1/10",
+      "view": 11951621,
+      "catalogs": " Ngôn Tình",
+      "shortDes": "Ngọt! Sủng! Nhảy hố thoải mái! Nữ chính giai đoạn đầu hơi yếu, nhưng càng về sau càng trưởng thành bật ngược lại cặn bã."
+    },
+    {
+      "id": 6,
+      "title": "Cô Vợ Ngọt Ngào Có Chút Bất Lương",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//images/story/Co-Vo-Ngot-Ngao-Co-Chut-Bat-Luong.jpg",
+      "content": "Khẩu vị của người này rốt cuộc ra sao a! Cái này cũng bỏ được vào miệng à? Sau khi cô tỉnh dậy, nhìn vào trong gương thấy chính mình đầu xăm mặt giống như quỷ, cảm giác chỉ nhìn thêm một giây cũng hỏng đôi mắt. Trước khi trọng sinh, Việt Trạch chính là người mà cô dùng cả tấm lòng để yêu nhưng sau đó cũng là người mà cô hận thấu xương.",
+      "chapter": "",
+      "author": " Quẫn Quẫn Hữu Yêu",
+      "status": "Theo dõi",
+      "rate": "8.5/10",
+      "view": 14319,
+      "catalogs": " Ngôn Tình",
+      "shortDes": "Đời trước cô chính là kiểu phụ nữ não tàn nên mới không muốn lây một ông xã tuyệt sắc, lại bị đôi tiện nam nữ hãm hại, bị người bạn thân nhất tẩy não, kết cục cuối cùng chính là không còn người nào muốn ở gần cô. Đời này mặc cho các ngươi trâu bò rắn rết trăm phương nghìn kế, muốn cô ly dị, nhường đi ngôi vị phu nhân. Ngượng ngùng quá ~~, chỉ số thông minh của bản tiểu thư đã lên dây rồi nhé!"
+    },
+    {
+      "id": 7,
+      "title": " Cô Vợ Ngọt Ngào Có Chút Bất Lương (Vợ Mới Bất Lương Có Chút Ngọt)",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//co-vo-ngot-ngao-co-chut-bat-luong-vo-moi-bat-luong-co-chut-ngot.1576254700.jpg",
+      "content": "Sau khi cô tỉnh dậy, nhìn vào trong gương thấy chính mình đầu xăm mặt giống như quỷ, cảm giác chỉ nhìn thêm một giây hỏng đôi mắt.",
+      "chapter": "",
+      "author": " Quẫn Quẫn Hữu Yêu",
+      "status": "Theo dõi",
+      "rate": "7.5/10",
+      "view": 143195,
+      "catalogs": "  Ngôn Tình, Truyện Sủng, Trọng Sinh",
+      "shortDes": "Đời trước cô chính là kiểu phụ nữ não tàn nên mới không muốn lây một ông xã tuyệt sắc, lại bị đôi tiện nam nữ hãm hại, bị người bạn thân nhất tẩy não, kết cục cuối cùng chính là không còn người nào muốn ở gần cô."
+    },
+    {
+      "id": 8,
+      "title": "Thần Đạo Đan Tôn",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//than-ao-an-ton.jpg",
+      "content": "Lăng Hàn - Một Đan Đế đại danh đỉnh định mang trong thân mình tuyệt thế công pháp vì truy cầu bước cuối, xé bỏ tấm màn thành thần nhưng thất bại đã phải bỏ mình. Thế nhưng ông trời dường như không muốn tuyệt dường người, Lăng Hàn đã được sinh vào một thiếu niên cùng tên và điều may mắn nhất là Bất Diệt Thiên Kinh ấn ký vẫn còn nằm nguyên trong tâm thức hắn.Từ nay về sau sóng gió cuộn trào nổi lên, Đan Đế ngày xưa bây giờ phải cùng tranh phong với vô số thiên tài trẻ tuổi, lại bắt đầu một truyền thuyết mới như để chứng minh với trời đất: Ta, là người mạnh nhất!Phân chia cảnh giới: Luyện Thể, Tụ Nguyên, Dũng Tuyền, Linh Hải, Thần Thai, Sinh Hoa, Linh Anh, Hóa Thần cùng Thiên Nhân Cảnh.....",
+      "chapter": "",
+      "author": "Cô Đơn Địa Phi",
+      "status": "Theo dõi",
+      "rate": "7.4/10",
+      "view": 10898764,
+      "catalogs": "Tiên Hiệp, Huyền Huyễn",
+      "shortDes": "Mỗi cảnh giới chia làm chín tầng : tầng một đến ba là tiền kỳ, tầng bốn đến sáu gọi là trung kỳ và tầng bảy đến chín gọi là hậu kỳ và đỉnh Cảnh giới Đan Sư: Hoàng cấp,Huyền cấp, Địa cấp, Thiên cấp...Thần Cảnh: Nhật Nguyệt Cảnh, Sơn Hà Cảnh, Tinh Thần Cảnh, Hằng Hà Cảnh, Sáng Thế Cảnh"
+    },
+    {
+      "id": 9,
+      "title": "Xuyên Nhanh: Nam Thần, Bùng Cháy Đi!",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//xuyen-nhanh-nam-than-bung-chay-i.jpg",
+      "content": "Bống nhiên chết đi vì lý do không rõ ràng, điều đó khiến Sở Tranh đau đầu nhất lại chính là phải... tiêu tiền.",
+      "chapter": "",
+      "author": " Mặc Linh",
+      "status": "Theo dõi",
+      "rate": "7.5/10",
+      "view": 1999279,
+      "catalogs": "Xuyên Không, Ngôn Tình, Cổ Đại, Hài Hước, Mạt Thế, Khoa Huyễn",
+      "shortDes": "Kể từ ngày bị ràng buộc với hệ thống này, cô eo không đau, chân không mỏi, ngay cả thở gấp cũng không cần thiết, mỗi ngày đều thấp thỏm vung tiền."
+    },
+    {
+      "id": 10,
+      "title": "Thiên Đạo Đồ Thư Quán",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//thien-ao-o-thu-quan.jpg",
+      "content": "Trương Huyền là một thanh niên quản lý thư viện, khi xuyên đến dị giới, phát hiện trong đầu có một cái thư viện thần bí, liền trở thành một vị lão sư vô cùng cao siêu.",
+      "chapter": "",
+      "author": "Hoành Tảo Thiên Nhai",
+      "status": "Đang ra",
+      "rate": "7.5/10",
+      "view": 8449165,
+      "catalogs": "  Xuyên Không, Dị Giới, Tiên Hiệp, Huyền Huyễn",
+      "shortDes": "Dù là người hay vật, để hắn nhìn thấy thì liền có khả năng soạn thành tịch lưu vào thư viện, kể ra ưu nhược của đối phương một cách rõ ràng!"
+    },
+    {
+      "id": 11,
+      "title": "Hello, Người Thừa Kế (Xin Chào, Người Thừa Kế)",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//hello-nguoi-thua-ke-xin-chao-nguoi-thua-ke.jpg",
+      "content": "Anh thân là người kế thừa tập đoàn Đế Hào, tính cách quyết đoán lãnh huyết nhưng đối với cô lại là yêu chiều đến tận xương tủy.",
+      "chapter": "",
+      "author": " Công Tử Diễn",
+      "status": "Theo dõi",
+      "rate": "8.4/10",
+      "view": 585969,
+      "catalogs": "  Ngôn Tình, Truyện Ngược, Truyện Sủng",
+      "shortDes": "Ngày ấy, có người hỏi anh, “Tại sao khi hai đứa gây gổ, anh cũng phải cúi đầu trước?” Tư Chính Đình: “Tôi 185, cô ấy 165, lần nào nói chuyện, không phải là tôi cuối đầu trước?”"
+    },
+    {
+      "id": 12,
+      "title": "Cô Vợ Thay Thế",
+      "imgUrl": "https://sstruyen.vn/assets/img/story//co-vo-thay-the.jpg",
+      "content": "Chị cô vì nghe đồn người chồng sắp cưới của mình là một tên xấu xí, đã vậy còn bất lực, cho nên không muốn lấy, bắt cô phải gả thay.",
+      "chapter": "",
+      "author": "Lạt Tiêu",
+      "status": "Đang ra",
+      "rate": "6.9/10",
+      "view": 821737,
+      "catalogs": " Ngôn Tình",
+      "shortDes": "Đêm tân hôn, người đàn ông tuấn tú nhíu mày, chê cô xấu. Cô cứ nghĩ anh ta đã chán ghét cuộc sống vợ chồng sau này chắc cũng không thể hoà thuận được. Ai ngờ nói xong câu đó, anh ta lại đè lên người cô:"
+    }
+  ]
+}
